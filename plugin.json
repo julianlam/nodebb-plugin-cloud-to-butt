@@ -1,0 +1,10 @@
+{
+	"id": "cloud-to-butt",
+	"name": "Cloud to Butt",
+	"description": "NodeBB Plugin that replaces occurrences of 'the cloud' with 'my butt'",
+	"url": "https://github.com/panicsteve/cloud-to-butt/",
+	"library": "./cloud-to-butt.js",
+	"hooks": [
+		{ "hook": "filter:save_post_content", "method": "filter" }
+	]
+}
