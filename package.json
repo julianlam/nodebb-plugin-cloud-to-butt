@@ -1,0 +1,22 @@
+{
+  "name": "nodebb-plugin-cloud-to-butt",
+  "version": "0.1.0",
+  "description": "NodeBB plugin that replaces occurences of 'the cloud' with 'my butt'",
+  "main": "cloud-to-butt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianlam/nodebb-plugin-cloud-to-butt"
+  },
+  "keywords": [
+    "cloud-to-butt",
+    "nodebb"
+  ],
+  "author": "julianlam",
+  "license": "LGPLv3",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-plugin-cloud-to-butt/issues"
+  }
+}
