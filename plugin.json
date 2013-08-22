@@ -5,6 +5,6 @@
 	"url": "https://github.com/panicsteve/cloud-to-butt/",
 	"library": "./cloud-to-butt.js",
 	"hooks": [
-		{ "hook": "filter:save_post_content", "method": "filter" }
+		{ "hook": "filter:post.save", "method": "filter" }
 	]
 }
